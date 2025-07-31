@@ -1,0 +1,386 @@
+feedback_id,service_id,customer_id,feedback_type,complaint_category,resolution_status,resolution_days,feedback_date,feedback_channel,escalation_required,compensation_provided
+FB_440711,SRV_003665,CUST_01072,Complaint,Overcharging,In Progress,,2025-05-07 05:00:18.701242,Online Form,True,False
+FB_343090,SRV_007987,CUST_00747,Complaint,Service delay,Resolved,6.0,2025-12-05 05:00:18.693242,Phone,True,True
+FB_725258,SRV_000222,CUST_00696,Complaint,Technical incompetence,Resolved,1.0,2025-01-11 05:00:18.692244,Phone,False,False
+FB_452369,SRV_003254,CUST_01990,Complaint,Overcharging,In Progress,,2025-01-28 05:00:18.767245,In Person,True,False
+FB_468090,SRV_004668,CUST_01792,Complaint,Facility cleanliness,Resolved,20.0,2024-02-27 05:00:18.762244,Email,True,False
+FB_514578,SRV_006747,CUST_01107,Complaint,Incomplete service,In Progress,,2025-05-13 05:00:18.714244,Email,True,False
+FB_531501,SRV_007862,CUST_01618,Complaint,Parts not available,Resolved,21.0,2025-05-07 05:00:18.742244,Online Form,False,True
+FB_954071,SRV_006126,CUST_00794,Complaint,Facility cleanliness,Resolved,30.0,2025-02-28 05:00:18.694242,Email,False,False
+FB_554658,SRV_005319,CUST_01806,Complaint,Communication issues,Unresolved,,2024-03-23 05:00:18.762772,Phone,True,False
+FB_814458,SRV_006595,CUST_01841,Complaint,Long wait time,In Progress,,2022-10-04 05:00:18.764244,Email,False,False
+FB_370183,SRV_007419,CUST_01224,Complaint,Parts not available,Unresolved,,2023-08-06 05:00:18.723244,Phone,True,False
+FB_281150,SRV_000671,CUST_00315,Complaint,Service delay,Resolved,7.0,2025-08-31 05:00:18.664243,In Person,True,True
+FB_565064,SRV_007845,CUST_00468,Complaint,Facility cleanliness,Resolved,12.0,2023-06-29 05:00:18.686242,Phone,False,True
+FB_680632,SRV_005138,CUST_00626,Complaint,Rude staff,Resolved,5.0,2023-04-01 05:00:18.690242,In Person,False,False
+FB_955243,SRV_005296,CUST_00163,Complaint,Incomplete service,Resolved,27.0,2023-08-19 05:00:18.660247,Online Form,False,False
+FB_400122,SRV_002707,CUST_00056,Complaint,Parts not available,Resolved,9.0,2025-01-18 05:00:18.657243,In Person,False,True
+FB_358677,SRV_000935,CUST_01672,Complaint,Service delay,Resolved,16.0,2025-05-16 05:00:18.759243,Phone,False,True
+FB_322306,SRV_000405,CUST_01834,Complaint,Parts not available,Unresolved,,2025-03-03 05:00:18.763731,Online Form,False,False
+FB_412418,SRV_002597,CUST_01411,Complaint,Long wait time,Unresolved,,2025-04-03 05:00:18.737244,Phone,False,False
+FB_726144,SRV_001922,CUST_01684,Complaint,Facility cleanliness,In Progress,,2024-11-17 05:00:18.759243,In Person,False,False
+FB_653312,SRV_000160,CUST_00911,Complaint,Service delay,In Progress,,2024-12-15 05:00:18.697242,Online Form,True,False
+FB_733042,SRV_004753,CUST_01742,Complaint,Overcharging,Resolved,2.0,2026-05-17 05:00:18.761245,In Person,False,True
+FB_327011,SRV_007156,CUST_01435,Complaint,Technical incompetence,Resolved,26.0,2024-02-28 05:00:18.738244,Online Form,True,True
+FB_207361,SRV_002611,CUST_00052,Complaint,Long wait time,Resolved,3.0,2023-07-09 05:00:18.657243,Online Form,True,False
+FB_364471,SRV_004776,CUST_01048,Complaint,Parts not available,Unresolved,,2024-04-10 05:00:18.700242,Email,True,False
+FB_541913,SRV_001480,CUST_01488,Complaint,Technical incompetence,In Progress,,2025-07-15 05:00:18.739244,Online Form,True,False
+FB_981559,SRV_005584,CUST_00296,Complaint,Incomplete service,Resolved,15.0,2025-07-01 05:00:18.663245,In Person,True,True
+FB_949801,SRV_007032,CUST_01173,Complaint,Facility cleanliness,In Progress,,2024-11-16 05:00:18.722244,In Person,False,False
+FB_735855,SRV_001242,CUST_01365,Complaint,Overcharging,In Progress,,2023-03-05 05:00:18.735244,Phone,True,False
+FB_257295,SRV_002074,CUST_01930,Complaint,Facility cleanliness,Resolved,26.0,2025-01-03 05:00:18.766243,Email,True,False
+FB_219348,SRV_006665,CUST_01909,Complaint,Facility cleanliness,Resolved,14.0,2023-09-20 05:00:18.765246,Online Form,False,False
+FB_380197,SRV_004786,CUST_00821,Complaint,Technical incompetence,In Progress,,2025-06-18 05:00:18.695242,Phone,False,False
+FB_867839,SRV_005635,CUST_01555,Complaint,Poor service quality,Resolved,27.0,2023-11-13 05:00:18.741246,Phone,True,False
+FB_790214,SRV_005061,CUST_01635,Complaint,Incomplete service,In Progress,,2023-09-19 05:00:18.743243,Phone,True,False
+FB_720146,SRV_000880,CUST_01752,Complaint,Poor service quality,Resolved,24.0,2023-09-11 05:00:18.761245,In Person,True,False
+FB_629817,SRV_002474,CUST_00258,Complaint,Communication issues,Resolved,28.0,2024-10-13 05:00:18.662248,Phone,True,False
+FB_544761,SRV_007446,CUST_00836,Complaint,Overcharging,In Progress,,2024-08-05 05:00:18.695242,Online Form,True,False
+FB_427158,SRV_002874,CUST_01898,Complaint,Parts not available,Resolved,25.0,2023-09-20 05:00:18.765246,Online Form,False,True
+FB_832551,SRV_005303,CUST_01472,Complaint,Parts not available,Unresolved,,2023-10-14 05:00:18.739244,Email,True,False
+FB_651358,SRV_005858,CUST_01398,Complaint,Service delay,Resolved,20.0,2024-02-22 05:00:18.736244,Phone,False,True
+FB_112457,SRV_003443,CUST_00028,Complaint,Overcharging,Resolved,4.0,2025-10-10 05:00:18.656242,In Person,False,False
+FB_402519,SRV_006372,CUST_00443,Complaint,Rude staff,Resolved,21.0,2025-09-05 05:00:18.685242,Email,True,True
+FB_867624,SRV_007388,CUST_00448,Complaint,Technical incompetence,Resolved,17.0,2024-04-27 05:00:18.685242,Email,False,True
+FB_886116,SRV_002289,CUST_01078,Complaint,Parts not available,In Progress,,2023-09-19 05:00:18.701242,Email,True,False
+FB_647864,SRV_000590,CUST_00916,Complaint,Poor service quality,Unresolved,,2023-03-24 05:00:18.697242,Online Form,False,False
+FB_681757,SRV_001142,CUST_00108,Complaint,Communication issues,In Progress,,2025-06-25 05:00:18.658241,Phone,False,False
+FB_910671,SRV_007721,CUST_00278,Complaint,Service delay,In Progress,,2025-01-29 05:00:18.663245,In Person,True,False
+FB_339495,SRV_005292,CUST_01452,Complaint,Parts not available,In Progress,,2023-07-04 05:00:18.738244,In Person,True,False
+FB_288818,SRV_002954,CUST_00583,Complaint,Poor service quality,Resolved,7.0,2024-11-25 05:00:18.689246,Phone,True,False
+FB_137876,SRV_001775,CUST_01845,Complaint,Communication issues,Resolved,22.0,2022-12-29 05:00:18.764388,Email,True,True
+FB_810234,SRV_001908,CUST_00677,Complaint,Incomplete service,Resolved,8.0,2023-09-09 05:00:18.691243,Email,True,False
+FB_981257,SRV_002520,CUST_00960,Complaint,Long wait time,In Progress,,2024-04-09 05:00:18.698242,Online Form,False,False
+FB_292066,SRV_000826,CUST_01231,Complaint,Communication issues,Resolved,8.0,2023-08-23 05:00:18.724244,Online Form,False,True
+FB_190661,SRV_003450,CUST_00949,Complaint,Service delay,Unresolved,,2024-06-23 05:00:18.698242,Phone,True,False
+FB_103015,SRV_000198,CUST_00506,Complaint,Facility cleanliness,In Progress,,2025-06-10 05:00:18.687241,In Person,False,False
+FB_943054,SRV_004879,CUST_00384,Complaint,Facility cleanliness,Resolved,26.0,2022-12-23 05:00:18.684243,In Person,True,True
+FB_423895,SRV_006509,CUST_01149,Complaint,Overcharging,Resolved,2.0,2024-08-16 05:00:18.721244,In Person,True,True
+FB_692777,SRV_001341,CUST_01475,Complaint,Long wait time,In Progress,,2025-08-28 05:00:18.739244,Phone,True,False
+FB_665901,SRV_007479,CUST_01645,Complaint,Poor service quality,Unresolved,,2023-04-14 05:00:18.758891,Online Form,False,False
+FB_370924,SRV_004425,CUST_00873,Complaint,Technical incompetence,Resolved,25.0,2023-07-10 05:00:18.696242,Online Form,True,True
+FB_492603,SRV_000708,CUST_00982,Complaint,Communication issues,Unresolved,,2025-10-03 05:00:18.699242,Phone,False,False
+FB_965862,SRV_000693,CUST_01238,Complaint,Rude staff,Resolved,16.0,2024-09-17 05:00:18.729244,Email,True,False
+FB_209783,SRV_005258,CUST_00641,Complaint,Communication issues,Resolved,22.0,2024-11-18 05:00:18.690242,Phone,True,True
+FB_114086,SRV_000053,CUST_01677,Complaint,Incomplete service,Resolved,5.0,2025-06-29 05:00:18.759243,Phone,True,True
+FB_333612,SRV_001483,CUST_00560,Complaint,Incomplete service,Resolved,21.0,2024-04-18 05:00:18.688243,Phone,True,False
+FB_903826,SRV_006559,CUST_01902,Complaint,Technical incompetence,Resolved,28.0,2024-10-11 05:00:18.765246,Phone,True,False
+FB_581948,SRV_007007,CUST_00437,Complaint,Communication issues,Unresolved,,2023-11-20 05:00:18.685242,Email,False,False
+FB_933289,SRV_005128,CUST_01214,Complaint,Rude staff,In Progress,,2023-05-21 05:00:18.723244,In Person,True,False
+FB_228497,SRV_003238,CUST_00315,Complaint,Communication issues,Unresolved,,2025-12-17 05:00:18.664243,Phone,False,False
+FB_110277,SRV_003969,CUST_01251,Complaint,Technical incompetence,Resolved,20.0,2024-01-13 05:00:18.730244,Email,True,True
+FB_272889,SRV_003501,CUST_01426,Complaint,Communication issues,Unresolved,,2025-09-18 05:00:18.737542,Online Form,True,False
+FB_192946,SRV_000531,CUST_01617,Complaint,Service delay,Resolved,18.0,2025-07-03 05:00:18.742244,In Person,True,True
+FB_713806,SRV_006523,CUST_01005,Complaint,Technical incompetence,Resolved,3.0,2023-08-03 05:00:18.699242,Email,False,True
+FB_119272,SRV_007748,CUST_00829,Complaint,Poor service quality,Resolved,21.0,2024-03-21 05:00:18.695242,Email,True,False
+FB_823531,SRV_005316,CUST_01099,Complaint,Facility cleanliness,Resolved,1.0,2024-05-28 05:00:18.701242,Online Form,True,False
+FB_667401,SRV_006472,CUST_01428,Complaint,Incomplete service,In Progress,,2024-06-21 05:00:18.737542,Phone,True,False
+FB_335186,SRV_006505,CUST_00832,Complaint,Technical incompetence,Resolved,16.0,2025-01-04 05:00:18.695242,Phone,False,True
+FB_107015,SRV_000260,CUST_00116,Complaint,Long wait time,Unresolved,,2025-04-11 05:00:18.658241,Online Form,False,False
+FB_851321,SRV_005880,CUST_01222,Complaint,Overcharging,In Progress,,2024-09-06 05:00:18.723244,Phone,False,False
+FB_544859,SRV_002607,CUST_01740,Complaint,Service delay,Resolved,29.0,2023-08-23 05:00:18.761245,Phone,True,False
+FB_297513,SRV_001813,CUST_01109,Complaint,Incomplete service,In Progress,,2024-01-07 05:00:18.719245,Phone,False,False
+FB_713319,SRV_002975,CUST_00285,Complaint,Facility cleanliness,In Progress,,2025-06-12 05:00:18.663245,Email,False,False
+FB_315767,SRV_003645,CUST_01627,Complaint,Poor service quality,Unresolved,,2025-01-05 05:00:18.742244,Phone,True,False
+FB_235741,SRV_005036,CUST_00674,Complaint,Long wait time,Resolved,16.0,2023-05-05 05:00:18.691243,Online Form,True,True
+FB_505865,SRV_004680,CUST_00354,Complaint,Communication issues,Resolved,26.0,2023-10-20 05:00:18.665243,Phone,True,True
+FB_835703,SRV_005490,CUST_00573,Complaint,Communication issues,Resolved,15.0,2024-07-09 05:00:18.689246,Phone,False,True
+FB_789731,SRV_006840,CUST_01506,Complaint,Service delay,Resolved,6.0,2025-04-01 05:00:18.740245,Online Form,False,False
+FB_288272,SRV_003575,CUST_00315,Complaint,Parts not available,In Progress,,2025-09-17 05:00:18.664243,Email,False,False
+FB_197975,SRV_000627,CUST_00001,Complaint,Facility cleanliness,Resolved,17.0,2025-05-29 05:00:18.655244,Online Form,False,True
+FB_483843,SRV_002556,CUST_01937,Complaint,Communication issues,In Progress,,2023-09-19 05:00:18.766243,Online Form,False,False
+FB_591793,SRV_006319,CUST_00342,Complaint,Communication issues,Resolved,2.0,2024-05-07 05:00:18.664243,Phone,True,False
+FB_840973,SRV_001863,CUST_00387,Complaint,Rude staff,In Progress,,2024-11-27 05:00:18.684243,Phone,False,False
+FB_943283,SRV_002432,CUST_00825,Complaint,Communication issues,Resolved,19.0,2024-08-15 05:00:18.695242,Phone,False,True
+FB_626846,SRV_004559,CUST_01500,Complaint,Communication issues,Resolved,10.0,2023-01-21 05:00:18.740245,Phone,True,True
+FB_348248,SRV_003269,CUST_00662,Complaint,Overcharging,Resolved,17.0,2025-09-28 05:00:18.691243,Online Form,True,True
+FB_404537,SRV_001570,CUST_00245,Complaint,Service delay,In Progress,,2024-04-20 05:00:18.662248,In Person,False,False
+FB_389637,SRV_000579,CUST_00322,Complaint,Long wait time,Resolved,10.0,2023-11-03 05:00:18.664243,Online Form,True,True
+FB_844470,SRV_004721,CUST_01062,Complaint,Communication issues,Resolved,28.0,2024-04-11 05:00:18.700242,In Person,False,False
+FB_457738,SRV_001773,CUST_00865,Complaint,Facility cleanliness,In Progress,,2022-10-07 05:00:18.696242,Phone,False,False
+FB_251170,SRV_007781,CUST_01152,Complaint,Communication issues,Resolved,11.0,2024-02-09 05:00:18.721244,In Person,False,True
+FB_838979,SRV_005443,CUST_00557,Complaint,Rude staff,In Progress,,2025-06-07 05:00:18.688243,Phone,True,False
+FB_834625,SRV_005574,CUST_01836,Complaint,Incomplete service,Resolved,19.0,2025-05-25 05:00:18.763731,Email,True,True
+FB_412117,SRV_005695,CUST_00734,Complaint,Long wait time,Unresolved,,2024-04-22 05:00:18.693242,Online Form,True,False
+FB_328267,SRV_005243,CUST_00274,Complaint,Poor service quality,Resolved,13.0,2023-05-24 05:00:18.663245,Online Form,False,False
+FB_600668,SRV_000224,CUST_00913,Complaint,Long wait time,Unresolved,,2022-11-24 05:00:18.697242,Online Form,False,False
+FB_800640,SRV_002148,CUST_00635,Complaint,Long wait time,In Progress,,2024-07-08 05:00:18.690242,Phone,False,False
+FB_500486,SRV_007644,CUST_01450,Complaint,Rude staff,Resolved,5.0,2025-05-25 05:00:18.738244,In Person,False,True
+FB_378506,SRV_001807,CUST_00834,Complaint,Incomplete service,In Progress,,2023-09-24 05:00:18.695242,Email,False,False
+FB_972682,SRV_001861,CUST_01980,Complaint,Long wait time,Unresolved,,2024-09-29 05:00:18.767245,In Person,True,False
+FB_711913,SRV_001670,CUST_00705,Complaint,Communication issues,Unresolved,,2024-08-30 05:00:18.692244,In Person,True,False
+FB_520195,SRV_001022,CUST_00056,Complaint,Service delay,Resolved,12.0,2024-09-09 05:00:18.657243,Phone,True,False
+FB_642424,SRV_001427,CUST_01962,Complaint,Poor service quality,Resolved,14.0,2025-04-23 05:00:18.767245,Online Form,False,False
+FB_180311,SRV_006757,CUST_01203,Complaint,Long wait time,Resolved,7.0,2024-08-15 05:00:18.723244,In Person,False,False
+FB_868970,SRV_001614,CUST_00095,Complaint,Long wait time,Unresolved,,2024-07-19 05:00:18.658241,Email,True,False
+FB_186023,SRV_001178,CUST_00692,Complaint,Technical incompetence,Resolved,4.0,2024-11-04 05:00:18.692244,Online Form,True,True
+FB_893169,SRV_000149,CUST_01560,Complaint,Service delay,Resolved,8.0,2025-02-16 05:00:18.741246,Email,False,False
+FB_187667,SRV_004601,CUST_00852,Complaint,Technical incompetence,Resolved,10.0,2025-07-15 05:00:18.695242,Phone,False,False
+FB_943294,SRV_007589,CUST_01747,Complaint,Parts not available,In Progress,,2025-09-27 05:00:18.761245,Email,False,False
+FB_954567,SRV_007277,CUST_01094,Complaint,Incomplete service,In Progress,,2026-03-22 05:00:18.701242,Online Form,True,False
+FB_664363,SRV_003688,CUST_00528,Complaint,Facility cleanliness,Resolved,7.0,2024-05-18 05:00:18.687241,Email,True,False
+FB_703348,SRV_006048,CUST_01736,Complaint,Technical incompetence,In Progress,,2024-10-31 05:00:18.761245,Email,True,False
+FB_481465,SRV_004561,CUST_00861,Complaint,Incomplete service,Unresolved,,2023-10-22 05:00:18.696242,Online Form,False,False
+FB_498632,SRV_003518,CUST_00128,Complaint,Long wait time,In Progress,,2024-05-18 05:00:18.659245,Online Form,False,False
+FB_452626,SRV_002282,CUST_01537,Complaint,Technical incompetence,In Progress,,2024-08-17 05:00:18.740245,Phone,True,False
+FB_997609,SRV_004922,CUST_00937,Complaint,Technical incompetence,In Progress,,2024-07-08 05:00:18.697242,Online Form,True,False
+FB_286687,SRV_004274,CUST_01435,Complaint,Long wait time,In Progress,,2024-02-03 05:00:18.738244,Email,True,False
+FB_268698,SRV_004629,CUST_00346,Complaint,Parts not available,Resolved,4.0,2024-02-03 05:00:18.665243,In Person,False,True
+FB_169579,SRV_000375,CUST_01203,Complaint,Long wait time,Unresolved,,2024-05-11 05:00:18.723244,Email,True,False
+FB_735185,SRV_001534,CUST_00910,Complaint,Rude staff,Resolved,3.0,2025-07-01 05:00:18.697242,Phone,False,False
+FB_338842,SRV_005233,CUST_01292,Complaint,Incomplete service,Resolved,5.0,2024-11-22 05:00:18.733242,In Person,False,True
+FB_458667,SRV_003821,CUST_00456,Complaint,Overcharging,Resolved,26.0,2024-07-11 05:00:18.685242,Email,True,False
+FB_558493,SRV_004304,CUST_00720,Complaint,Rude staff,Resolved,24.0,2023-09-01 05:00:18.692244,Online Form,True,False
+FB_804690,SRV_006651,CUST_01258,Complaint,Poor service quality,Unresolved,,2023-10-28 05:00:18.730244,Online Form,True,False
+FB_134570,SRV_006914,CUST_01424,Complaint,Rude staff,Resolved,10.0,2024-05-18 05:00:18.737542,Phone,False,True
+FB_387199,SRV_005932,CUST_01578,Complaint,Rude staff,In Progress,,2024-05-05 05:00:18.741246,Phone,False,False
+FB_155176,SRV_002341,CUST_01735,Complaint,Parts not available,Resolved,11.0,2025-11-15 05:00:18.760245,Email,True,False
+FB_799552,SRV_002574,CUST_01346,Complaint,Incomplete service,Resolved,28.0,2024-07-04 05:00:18.734243,Phone,False,False
+FB_845043,SRV_003572,CUST_00216,Complaint,Rude staff,Resolved,27.0,2023-02-08 05:00:18.661250,Email,True,True
+FB_298481,SRV_006557,CUST_00045,Complaint,Rude staff,In Progress,,2025-02-19 05:00:18.656242,Online Form,True,False
+FB_915171,SRV_004667,CUST_00354,Complaint,Overcharging,Unresolved,,2023-08-25 05:00:18.665243,Online Form,False,False
+FB_574036,SRV_005160,CUST_01415,Complaint,Communication issues,In Progress,,2025-06-10 05:00:18.737244,Phone,False,False
+FB_105551,SRV_006231,CUST_00216,Complaint,Communication issues,Resolved,18.0,2022-11-29 05:00:18.661250,Phone,True,False
+FB_781625,SRV_004301,CUST_01354,Complaint,Technical incompetence,Resolved,5.0,2025-09-27 05:00:18.734243,Phone,True,False
+FB_306297,SRV_004852,CUST_00484,Complaint,Incomplete service,Resolved,20.0,2026-03-13 05:00:18.686242,Online Form,False,True
+FB_342473,SRV_000422,CUST_00413,Complaint,Rude staff,Unresolved,,2024-07-24 05:00:18.684243,In Person,False,False
+FB_489974,SRV_004568,CUST_00019,Complaint,Rude staff,Resolved,5.0,2023-08-08 05:00:18.656242,Online Form,False,False
+FB_758238,SRV_001031,CUST_00890,Complaint,Overcharging,Unresolved,,2023-01-17 05:00:18.696242,In Person,False,False
+FB_251748,SRV_004124,CUST_00953,Complaint,Poor service quality,In Progress,,2024-12-18 05:00:18.698242,In Person,True,False
+FB_531770,SRV_005963,CUST_00407,Complaint,Technical incompetence,Unresolved,,2025-10-20 05:00:18.684243,Online Form,False,False
+FB_951885,SRV_001056,CUST_00208,Complaint,Facility cleanliness,In Progress,,2025-08-26 05:00:18.661250,Email,True,False
+FB_246939,SRV_004643,CUST_01328,Complaint,Incomplete service,Resolved,10.0,2024-03-28 05:00:18.734243,Online Form,True,True
+FB_245743,SRV_003332,CUST_01604,Complaint,Facility cleanliness,Resolved,15.0,2023-08-05 05:00:18.742244,Phone,True,False
+FB_922014,SRV_004709,CUST_00787,Complaint,Poor service quality,Resolved,22.0,2024-02-16 05:00:18.694242,Online Form,False,False
+FB_977220,SRV_001852,CUST_00897,Complaint,Rude staff,Resolved,12.0,2025-09-25 05:00:18.696242,Email,True,False
+FB_716490,SRV_006478,CUST_00134,Complaint,Long wait time,Unresolved,,2024-07-11 05:00:18.659245,Email,False,False
+FB_553399,SRV_006828,CUST_00918,Complaint,Overcharging,In Progress,,2024-12-08 05:00:18.697242,In Person,True,False
+FB_483885,SRV_000240,CUST_01182,Complaint,Technical incompetence,Resolved,27.0,2023-12-09 05:00:18.722244,Online Form,False,True
+FB_842129,SRV_002666,CUST_00838,Complaint,Long wait time,In Progress,,2024-02-26 05:00:18.695242,Phone,False,False
+FB_328404,SRV_002838,CUST_00069,Complaint,Service delay,In Progress,,2023-08-27 05:00:18.657243,Phone,False,False
+FB_743331,SRV_007173,CUST_01692,Complaint,Rude staff,Unresolved,,2023-12-18 05:00:18.759243,Online Form,True,False
+FB_439867,SRV_004230,CUST_00751,Complaint,Rude staff,Resolved,26.0,2025-01-29 05:00:18.693242,Email,False,True
+FB_489964,SRV_003108,CUST_01994,Complaint,Rude staff,Resolved,7.0,2025-10-30 05:00:18.767245,Online Form,False,False
+FB_692769,SRV_000993,CUST_00788,Complaint,Communication issues,In Progress,,2025-12-12 05:00:18.694242,Online Form,False,False
+FB_145835,SRV_007941,CUST_01524,Complaint,Rude staff,In Progress,,2023-11-11 05:00:18.740245,In Person,False,False
+FB_185957,SRV_000278,CUST_01188,Complaint,Poor service quality,In Progress,,2024-07-29 05:00:18.722244,Phone,False,False
+FB_522889,SRV_001925,CUST_00822,Complaint,Service delay,Resolved,27.0,2024-07-02 05:00:18.695242,Email,True,True
+FB_641684,SRV_007539,CUST_01222,Complaint,Technical incompetence,Resolved,28.0,2024-01-05 05:00:18.723244,In Person,True,True
+FB_908916,SRV_003777,CUST_01531,Complaint,Incomplete service,Unresolved,,2025-01-23 05:00:18.740245,In Person,True,False
+FB_467216,SRV_000843,CUST_01488,Complaint,Overcharging,Unresolved,,2025-08-17 05:00:18.739244,In Person,False,False
+FB_249520,SRV_005433,CUST_00432,Complaint,Long wait time,Unresolved,,2026-04-16 05:00:18.685242,Phone,True,False
+FB_528792,SRV_000720,CUST_01290,Complaint,Long wait time,Unresolved,,2024-01-30 05:00:18.733242,In Person,False,False
+FB_524131,SRV_001859,CUST_01752,Complaint,Incomplete service,In Progress,,2024-01-12 05:00:18.761245,Email,False,False
+FB_477866,SRV_003774,CUST_01803,Complaint,Overcharging,In Progress,,2022-09-21 05:00:18.762772,Online Form,True,False
+FB_794705,SRV_007860,CUST_01572,Complaint,Parts not available,Resolved,12.0,2024-03-15 05:00:18.741246,Email,True,False
+FB_335383,SRV_001355,CUST_01722,Complaint,Communication issues,Resolved,3.0,2025-05-15 05:00:18.760245,Email,True,False
+FB_532480,SRV_007496,CUST_01366,Complaint,Rude staff,Resolved,6.0,2025-05-26 05:00:18.735244,Online Form,False,False
+FB_587215,SRV_005743,CUST_01424,Complaint,Facility cleanliness,Resolved,19.0,2024-05-20 05:00:18.737542,Online Form,False,False
+FB_523730,SRV_005851,CUST_00920,Complaint,Poor service quality,Unresolved,,2024-01-13 05:00:18.697242,Phone,True,False
+FB_615209,SRV_004354,CUST_00499,Complaint,Communication issues,Unresolved,,2024-03-28 05:00:18.686242,Phone,False,False
+FB_549129,SRV_004277,CUST_00118,Complaint,Technical incompetence,Unresolved,,2024-12-29 05:00:18.658241,Online Form,False,False
+FB_571203,SRV_005046,CUST_00568,Complaint,Communication issues,In Progress,,2023-03-16 05:00:18.688243,In Person,True,False
+FB_919055,SRV_007276,CUST_00302,Complaint,Overcharging,In Progress,,2024-11-01 05:00:18.664243,Online Form,True,False
+FB_214741,SRV_003341,CUST_01364,Complaint,Rude staff,Resolved,22.0,2024-07-21 05:00:18.735244,Online Form,False,False
+FB_943075,SRV_002404,CUST_00481,Complaint,Communication issues,Resolved,10.0,2023-11-11 05:00:18.686242,Online Form,True,False
+FB_764706,SRV_004880,CUST_01456,Complaint,Parts not available,Resolved,10.0,2026-04-27 05:00:18.738244,Email,True,False
+FB_587798,SRV_006745,CUST_00381,Complaint,Poor service quality,In Progress,,2023-09-06 05:00:18.683245,Phone,False,False
+FB_401311,SRV_005227,CUST_00411,Complaint,Parts not available,Resolved,28.0,2023-07-19 05:00:18.684243,Phone,True,True
+FB_157460,SRV_002504,CUST_00825,Complaint,Service delay,In Progress,,2023-12-25 05:00:18.695242,Email,False,False
+FB_254826,SRV_002910,CUST_00424,Complaint,Overcharging,In Progress,,2023-07-28 05:00:18.684243,Online Form,False,False
+FB_943332,SRV_006234,CUST_00895,Complaint,Incomplete service,Resolved,17.0,2025-04-16 05:00:18.696242,Phone,False,True
+FB_251729,SRV_006258,CUST_00170,Complaint,Parts not available,Resolved,24.0,2024-02-06 05:00:18.660247,In Person,False,False
+FB_831651,SRV_006802,CUST_01879,Complaint,Overcharging,Resolved,23.0,2025-02-23 05:00:18.765246,Phone,False,False
+FB_325242,SRV_002578,CUST_00917,Complaint,Incomplete service,Resolved,15.0,2023-12-26 05:00:18.697242,Online Form,True,False
+FB_205258,SRV_005115,CUST_00210,Complaint,Service delay,Resolved,1.0,2025-05-23 05:00:18.661250,Online Form,False,True
+FB_456506,SRV_006661,CUST_01280,Complaint,Incomplete service,In Progress,,2025-10-07 05:00:18.732246,Phone,False,False
+FB_124131,SRV_006311,CUST_00197,Complaint,Rude staff,Unresolved,,2024-03-12 05:00:18.661250,In Person,False,False
+FB_187576,SRV_004632,CUST_00788,Complaint,Facility cleanliness,Unresolved,,2026-05-25 05:00:18.694242,Email,True,False
+FB_947305,SRV_004094,CUST_01214,Complaint,Technical incompetence,Unresolved,,2023-07-10 05:00:18.723244,Phone,False,False
+FB_922676,SRV_002416,CUST_01368,Complaint,Service delay,Resolved,14.0,2025-05-24 05:00:18.735244,Email,False,False
+FB_843858,SRV_004714,CUST_00747,Complaint,Technical incompetence,Unresolved,,2025-09-13 05:00:18.693242,Online Form,False,False
+FB_829280,SRV_002294,CUST_01621,Complaint,Parts not available,Resolved,4.0,2024-02-02 05:00:18.742244,Online Form,False,True
+FB_206749,SRV_002246,CUST_00917,Complaint,Incomplete service,In Progress,,2024-08-23 05:00:18.697242,Email,True,False
+FB_825160,SRV_003041,CUST_00047,Complaint,Poor service quality,Unresolved,,2024-03-24 05:00:18.656242,Email,False,False
+FB_381556,SRV_006282,CUST_00984,Complaint,Parts not available,Resolved,12.0,2025-01-10 05:00:18.699242,Online Form,True,True
+FB_495045,SRV_004344,CUST_01051,Complaint,Poor service quality,Resolved,24.0,2023-06-16 05:00:18.700242,Email,False,True
+FB_395311,SRV_003170,CUST_01455,Complaint,Service delay,Unresolved,,2025-02-25 05:00:18.738244,In Person,False,False
+FB_613498,SRV_005078,CUST_01041,Complaint,Service delay,Resolved,30.0,2026-01-11 05:00:18.700242,Email,False,False
+FB_769420,SRV_004930,CUST_00988,Complaint,Rude staff,In Progress,,2024-04-15 05:00:18.699242,Email,True,False
+FB_129201,SRV_005002,CUST_00120,Complaint,Poor service quality,In Progress,,2025-02-20 05:00:18.659245,In Person,False,False
+FB_653950,SRV_005083,CUST_00675,Complaint,Rude staff,Resolved,9.0,2025-12-15 05:00:18.691243,Phone,True,False
+FB_487376,SRV_005194,CUST_01168,Complaint,Facility cleanliness,Resolved,3.0,2024-12-06 05:00:18.721244,Phone,False,False
+FB_290124,SRV_005783,CUST_00583,Complaint,Overcharging,Resolved,29.0,2024-05-06 05:00:18.689246,Phone,False,True
+FB_894561,SRV_001567,CUST_01488,Complaint,Facility cleanliness,In Progress,,2025-04-04 05:00:18.739244,Email,True,False
+FB_495677,SRV_004819,CUST_00945,Complaint,Long wait time,In Progress,,2024-11-21 05:00:18.698242,Email,True,False
+FB_298425,SRV_005339,CUST_01221,Complaint,Long wait time,In Progress,,2023-12-17 05:00:18.723244,In Person,False,False
+FB_686049,SRV_006287,CUST_00197,Complaint,Overcharging,Unresolved,,2023-10-04 05:00:18.661250,Online Form,False,False
+FB_171423,SRV_006948,CUST_00275,Complaint,Incomplete service,Unresolved,,2023-12-05 05:00:18.663245,Online Form,True,False
+FB_212652,SRV_001705,CUST_01952,Complaint,Poor service quality,Unresolved,,2024-03-24 05:00:18.766243,In Person,False,False
+FB_459985,SRV_003439,CUST_01545,Complaint,Incomplete service,Resolved,27.0,2024-09-06 05:00:18.741246,Phone,True,False
+FB_291808,SRV_003411,CUST_00855,Complaint,Service delay,Resolved,29.0,2025-06-03 05:00:18.695242,Email,False,True
+FB_680160,SRV_001894,CUST_01390,Complaint,Overcharging,Resolved,1.0,2024-07-12 05:00:18.736244,Email,False,False
+FB_598082,SRV_007039,CUST_00800,Complaint,Technical incompetence,Unresolved,,2023-09-15 05:00:18.694242,Online Form,False,False
+FB_647282,SRV_005251,CUST_00899,Complaint,Overcharging,Resolved,17.0,2025-11-27 05:00:18.696242,In Person,False,False
+FB_959041,SRV_002357,CUST_00952,Complaint,Service delay,Unresolved,,2023-03-28 05:00:18.698242,In Person,True,False
+FB_951985,SRV_002318,CUST_00403,Complaint,Technical incompetence,Unresolved,,2025-06-30 05:00:18.684243,In Person,True,False
+FB_139502,SRV_004472,CUST_01841,Complaint,Facility cleanliness,Resolved,20.0,2023-04-05 05:00:18.764244,In Person,False,False
+FB_284944,SRV_002012,CUST_00056,Complaint,Overcharging,Resolved,15.0,2024-08-23 05:00:18.657243,Email,True,True
+FB_271145,SRV_000108,CUST_01825,Complaint,Poor service quality,Resolved,24.0,2023-05-15 05:00:18.763244,Phone,True,True
+FB_276315,SRV_006357,CUST_00068,Complaint,Facility cleanliness,Unresolved,,2025-09-24 05:00:18.657243,Online Form,True,False
+FB_504700,SRV_006855,CUST_01165,Complaint,Service delay,Resolved,22.0,2026-02-17 05:00:18.721244,In Person,True,False
+FB_209191,SRV_002569,CUST_00452,Complaint,Facility cleanliness,Resolved,21.0,2023-06-09 05:00:18.685242,Phone,False,False
+FB_500478,SRV_006144,CUST_01070,Complaint,Communication issues,Resolved,18.0,2023-10-09 05:00:18.701242,In Person,True,False
+FB_636405,SRV_005908,CUST_01642,Complaint,Parts not available,In Progress,,2025-09-28 05:00:18.758243,Online Form,True,False
+FB_153270,SRV_000626,CUST_01155,Complaint,Rude staff,Resolved,12.0,2024-02-04 05:00:18.721244,Email,False,False
+FB_451091,SRV_000029,CUST_00018,Complaint,Service delay,Resolved,14.0,2026-02-11 05:00:18.656242,Email,False,False
+FB_558688,SRV_003273,CUST_01661,Complaint,Communication issues,Resolved,24.0,2023-12-11 05:00:18.759243,In Person,False,True
+FB_253122,SRV_005322,CUST_00844,Complaint,Rude staff,In Progress,,2024-07-30 05:00:18.695242,Online Form,False,False
+FB_777892,SRV_006489,CUST_00542,Complaint,Incomplete service,In Progress,,2025-01-25 05:00:18.688243,Phone,True,False
+FB_633537,SRV_001407,CUST_00894,Complaint,Incomplete service,In Progress,,2023-07-10 05:00:18.696242,Phone,True,False
+FB_220175,SRV_005885,CUST_00846,Complaint,Technical incompetence,Unresolved,,2025-05-31 05:00:18.695242,Email,True,False
+FB_747507,SRV_002349,CUST_01454,Complaint,Overcharging,Resolved,19.0,2026-03-11 05:00:18.738244,In Person,False,True
+FB_953739,SRV_002019,CUST_01902,Complaint,Communication issues,Resolved,27.0,2025-03-15 05:00:18.765246,Phone,True,False
+FB_888981,SRV_001555,CUST_01715,Complaint,Long wait time,In Progress,,2023-03-27 05:00:18.760245,Online Form,False,False
+FB_755757,SRV_003067,CUST_00800,Complaint,Facility cleanliness,Unresolved,,2023-08-08 05:00:18.694242,Email,True,False
+FB_114851,SRV_000453,CUST_01047,Complaint,Incomplete service,Unresolved,,2025-12-26 05:00:18.700242,Phone,True,False
+FB_450826,SRV_005890,CUST_01789,Complaint,Parts not available,Resolved,2.0,2023-04-23 05:00:18.762244,Email,True,False
+FB_927450,SRV_005622,CUST_00888,Complaint,Overcharging,Resolved,12.0,2024-02-13 05:00:18.696242,In Person,False,False
+FB_521305,SRV_007957,CUST_01664,Complaint,Rude staff,Resolved,1.0,2025-01-08 05:00:18.759243,Online Form,False,True
+FB_542466,SRV_007287,CUST_01309,Complaint,Communication issues,Resolved,25.0,2025-09-12 05:00:18.733242,Online Form,False,True
+FB_999127,SRV_003368,CUST_00525,Complaint,Technical incompetence,Resolved,8.0,2025-01-10 05:00:18.687241,In Person,True,False
+FB_560715,SRV_004728,CUST_01825,Complaint,Incomplete service,Unresolved,,2023-03-04 05:00:18.763244,Online Form,True,False
+FB_998849,SRV_006436,CUST_01059,Complaint,Overcharging,Resolved,3.0,2025-01-05 05:00:18.700242,In Person,False,False
+FB_541834,SRV_002605,CUST_01174,Complaint,Facility cleanliness,Resolved,28.0,2024-01-09 05:00:18.722244,Email,False,False
+FB_425549,SRV_007163,CUST_01325,Complaint,Technical incompetence,Unresolved,,2025-01-20 05:00:18.733242,Phone,True,False
+FB_376902,SRV_004288,CUST_01692,Complaint,Communication issues,Unresolved,,2024-01-05 05:00:18.759243,In Person,False,False
+FB_845437,SRV_007684,CUST_01256,Complaint,Rude staff,In Progress,,2023-07-08 05:00:18.730244,In Person,True,False
+FB_524715,SRV_002388,CUST_01945,Complaint,Incomplete service,Resolved,9.0,2023-10-23 05:00:18.766243,Email,False,True
+FB_875199,SRV_002192,CUST_00297,Complaint,Long wait time,Unresolved,,2025-12-07 05:00:18.663245,In Person,True,False
+FB_274364,SRV_002815,CUST_00569,Complaint,Technical incompetence,Unresolved,,2023-08-19 05:00:18.689246,Phone,True,False
+FB_363371,SRV_000976,CUST_00598,Complaint,Technical incompetence,In Progress,,2024-11-16 05:00:18.689246,Email,False,False
+FB_660026,SRV_000397,CUST_00783,Complaint,Parts not available,Resolved,26.0,2025-09-16 05:00:18.694242,Online Form,True,False
+FB_661453,SRV_007251,CUST_01904,Complaint,Overcharging,Resolved,28.0,2023-03-29 05:00:18.765246,Online Form,False,False
+FB_606442,SRV_002524,CUST_00581,Complaint,Poor service quality,In Progress,,2025-12-31 05:00:18.689246,In Person,False,False
+FB_530480,SRV_006254,CUST_01804,Complaint,Technical incompetence,Resolved,28.0,2025-05-27 05:00:18.762772,Email,True,False
+FB_153687,SRV_006335,CUST_01633,Complaint,Overcharging,Unresolved,,2023-02-26 05:00:18.743243,Phone,True,False
+FB_632831,SRV_002152,CUST_00446,Complaint,Facility cleanliness,Resolved,7.0,2025-05-18 05:00:18.685242,In Person,True,False
+FB_849449,SRV_006139,CUST_00329,Complaint,Rude staff,Resolved,18.0,2025-04-01 05:00:18.664243,Phone,True,False
+FB_238861,SRV_007886,CUST_00692,Complaint,Incomplete service,Unresolved,,2024-11-14 05:00:18.692244,Online Form,False,False
+FB_434577,SRV_000213,CUST_00169,Complaint,Technical incompetence,Resolved,15.0,2023-08-26 05:00:18.660247,Phone,False,False
+FB_895988,SRV_000519,CUST_01255,Complaint,Overcharging,Resolved,21.0,2025-03-22 05:00:18.730244,Email,True,False
+FB_596824,SRV_006161,CUST_00715,Complaint,Communication issues,In Progress,,2024-07-10 05:00:18.692244,Phone,False,False
+FB_135806,SRV_006894,CUST_00332,Complaint,Long wait time,Resolved,26.0,2025-06-15 05:00:18.664243,Online Form,True,True
+FB_386393,SRV_004948,CUST_00136,Complaint,Parts not available,Resolved,18.0,2023-11-12 05:00:18.659245,Phone,False,False
+FB_805129,SRV_000964,CUST_00443,Complaint,Technical incompetence,Resolved,24.0,2025-09-20 05:00:18.685242,In Person,False,True
+FB_200851,SRV_007817,CUST_00120,Complaint,Service delay,Resolved,20.0,2025-07-21 05:00:18.659245,Online Form,False,True
+FB_690801,SRV_002959,CUST_01140,Complaint,Overcharging,Resolved,12.0,2024-05-23 05:00:18.720246,Online Form,True,False
+FB_603135,SRV_000523,CUST_00233,Complaint,Parts not available,Resolved,14.0,2025-02-05 05:00:18.662248,Email,True,False
+FB_309197,SRV_004356,CUST_00687,Complaint,Service delay,Resolved,17.0,2025-12-17 05:00:18.691243,Email,True,False
+FB_937722,SRV_004796,CUST_01314,Complaint,Overcharging,In Progress,,2025-02-10 05:00:18.733242,Email,False,False
+FB_414926,SRV_004631,CUST_01082,Complaint,Poor service quality,Resolved,18.0,2024-07-12 05:00:18.701242,In Person,False,True
+FB_927151,SRV_006429,CUST_01905,Complaint,Facility cleanliness,Unresolved,,2023-04-05 05:00:18.765246,Email,False,False
+FB_807793,SRV_005359,CUST_01730,Complaint,Facility cleanliness,In Progress,,2025-09-01 05:00:18.760245,In Person,False,False
+FB_138182,SRV_004071,CUST_00672,Complaint,Long wait time,Resolved,3.0,2024-09-11 05:00:18.691243,Phone,False,True
+FB_831803,SRV_000586,CUST_00302,Complaint,Service delay,Resolved,20.0,2024-06-13 05:00:18.664243,In Person,False,False
+FB_735618,SRV_003526,CUST_01017,Complaint,Facility cleanliness,Resolved,4.0,2025-07-17 05:00:18.699242,Phone,False,True
+FB_842980,SRV_000461,CUST_01596,Complaint,Rude staff,In Progress,,2025-07-08 05:00:18.742244,Online Form,True,False
+FB_359791,SRV_001255,CUST_01683,Complaint,Rude staff,Resolved,20.0,2022-09-18 05:00:18.759243,In Person,False,True
+FB_183765,SRV_004265,CUST_00030,Complaint,Service delay,In Progress,,2024-05-09 05:00:18.656242,Online Form,True,False
+FB_777431,SRV_004885,CUST_00681,Complaint,Communication issues,In Progress,,2025-07-18 05:00:18.691243,Online Form,True,False
+FB_797652,SRV_006154,CUST_01691,Complaint,Incomplete service,In Progress,,2023-10-30 05:00:18.759243,Online Form,False,False
+FB_958664,SRV_007805,CUST_00535,Complaint,Parts not available,Resolved,13.0,2023-08-02 05:00:18.687241,In Person,False,False
+FB_216633,SRV_000307,CUST_01486,Complaint,Rude staff,Resolved,10.0,2023-12-11 05:00:18.739244,Online Form,True,True
+FB_722878,SRV_004343,CUST_00351,Complaint,Technical incompetence,Unresolved,,2024-12-29 05:00:18.665243,Online Form,True,False
+FB_870063,SRV_002724,CUST_00946,Complaint,Long wait time,Unresolved,,2024-11-04 05:00:18.698242,Email,True,False
+FB_333751,SRV_006350,CUST_01684,Complaint,Technical incompetence,Resolved,28.0,2024-04-08 05:00:18.759243,Online Form,True,True
+FB_735517,SRV_005311,CUST_00586,Complaint,Rude staff,Resolved,18.0,2025-06-13 05:00:18.689246,Online Form,False,False
+FB_166579,SRV_003347,CUST_00768,Complaint,Parts not available,Unresolved,,2023-11-12 05:00:18.693242,Email,True,False
+FB_204549,SRV_004493,CUST_00371,Complaint,Communication issues,Unresolved,,2023-09-03 05:00:18.683245,Online Form,True,False
+FB_950580,SRV_007283,CUST_00083,Complaint,Parts not available,In Progress,,2024-09-20 05:00:18.657826,Email,True,False
+FB_738447,SRV_006237,CUST_00199,Complaint,Long wait time,Resolved,17.0,2025-09-18 05:00:18.661250,Email,False,True
+FB_350384,SRV_000061,CUST_01305,Complaint,Long wait time,Resolved,11.0,2024-03-10 05:00:18.733242,Phone,True,True
+FB_656353,SRV_007321,CUST_01435,Complaint,Communication issues,Resolved,22.0,2023-06-23 05:00:18.738244,Email,True,False
+FB_968407,SRV_001161,CUST_01916,Complaint,Parts not available,In Progress,,2025-01-30 05:00:18.766243,Email,False,False
+FB_982069,SRV_002530,CUST_01835,Complaint,Facility cleanliness,Unresolved,,2024-01-01 05:00:18.763731,In Person,True,False
+FB_882736,SRV_006817,CUST_01538,Complaint,Facility cleanliness,Resolved,14.0,2023-09-15 05:00:18.740245,Online Form,False,True
+FB_787609,SRV_001696,CUST_01329,Complaint,Parts not available,Resolved,8.0,2024-08-24 05:00:18.734243,Email,False,True
+FB_222403,SRV_000091,CUST_00014,Complaint,Poor service quality,In Progress,,2025-12-04 05:00:18.656242,Phone,False,False
+FB_539925,SRV_002478,CUST_00888,Complaint,Facility cleanliness,Unresolved,,2023-06-21 05:00:18.696242,Email,True,False
+FB_731395,SRV_003057,CUST_00978,Complaint,Facility cleanliness,Resolved,4.0,2024-05-05 05:00:18.698242,Email,False,False
+FB_352975,SRV_003582,CUST_00627,Complaint,Facility cleanliness,Unresolved,,2024-04-24 05:00:18.690242,Email,False,False
+FB_956830,SRV_000428,CUST_01424,Complaint,Technical incompetence,Resolved,2.0,2024-09-21 05:00:18.737542,Phone,False,True
+FB_395022,SRV_003922,CUST_01651,Complaint,Technical incompetence,Unresolved,,2025-06-10 05:00:18.759243,Phone,False,False
+FB_901544,SRV_003870,CUST_00972,Complaint,Technical incompetence,Resolved,8.0,2023-10-23 05:00:18.698242,Phone,False,True
+FB_232886,SRV_002117,CUST_00318,Complaint,Poor service quality,Resolved,3.0,2023-12-24 05:00:18.664243,Online Form,True,True
+FB_157644,SRV_001076,CUST_01566,Complaint,Communication issues,Resolved,24.0,2024-06-09 05:00:18.741246,In Person,False,True
+FB_211315,SRV_001845,CUST_01415,Complaint,Poor service quality,Unresolved,,2025-02-04 05:00:18.737244,Online Form,False,False
+FB_533845,SRV_006492,CUST_00852,Complaint,Rude staff,Resolved,9.0,2025-07-03 05:00:18.695242,Phone,False,True
+FB_941339,SRV_003233,CUST_00941,Complaint,Incomplete service,Unresolved,,2024-10-09 05:00:18.697242,Phone,False,False
+FB_741984,SRV_005595,CUST_00823,Complaint,Long wait time,Resolved,1.0,2023-05-11 05:00:18.695242,Online Form,False,True
+FB_695240,SRV_000752,CUST_00249,Complaint,Poor service quality,Unresolved,,2025-10-13 05:00:18.662248,Online Form,False,False
+FB_677160,SRV_006662,CUST_00882,Complaint,Long wait time,In Progress,,2025-02-16 05:00:18.696242,In Person,True,False
+FB_111187,SRV_005491,CUST_01030,Complaint,Communication issues,Resolved,10.0,2023-06-23 05:00:18.700242,Email,False,True
+FB_708288,SRV_006187,CUST_01426,Complaint,Poor service quality,In Progress,,2025-09-03 05:00:18.737542,In Person,False,False
+FB_870369,SRV_002325,CUST_01033,Complaint,Incomplete service,Resolved,26.0,2025-08-20 05:00:18.700242,Phone,False,False
+FB_629067,SRV_007699,CUST_00130,Complaint,Facility cleanliness,Resolved,30.0,2023-10-22 05:00:18.659245,Email,False,True
+FB_589275,SRV_005755,CUST_01226,Complaint,Parts not available,Resolved,16.0,2025-07-03 05:00:18.723244,Email,False,True
+FB_833713,SRV_004062,CUST_01596,Complaint,Technical incompetence,Resolved,15.0,2025-01-08 05:00:18.742244,Phone,False,False
+FB_694774,SRV_007462,CUST_01540,Complaint,Incomplete service,Resolved,27.0,2025-08-14 05:00:18.740245,Email,True,True
+FB_517592,SRV_000358,CUST_01242,Complaint,Rude staff,In Progress,,2024-05-29 05:00:18.729244,Phone,False,False
+FB_598731,SRV_001375,CUST_01771,Complaint,Communication issues,In Progress,,2024-10-18 05:00:18.761245,Online Form,True,False
+FB_930523,SRV_003363,CUST_01663,Complaint,Rude staff,Resolved,28.0,2023-04-22 05:00:18.759243,Email,False,True
+FB_891709,SRV_004276,CUST_01391,Complaint,Communication issues,In Progress,,2024-07-02 05:00:18.736244,Online Form,False,False
+FB_418152,SRV_003107,CUST_00726,Complaint,Communication issues,Resolved,1.0,2024-11-03 05:00:18.692244,Online Form,False,True
+FB_243908,SRV_002129,CUST_00622,Complaint,Communication issues,Resolved,10.0,2025-11-13 05:00:18.690242,In Person,False,False
+FB_132275,SRV_002030,CUST_01335,Complaint,Poor service quality,Resolved,15.0,2023-09-15 05:00:18.734243,Email,True,True
+FB_643809,SRV_003535,CUST_01764,Complaint,Facility cleanliness,In Progress,,2025-08-30 05:00:18.761245,In Person,False,False
+FB_750020,SRV_000197,CUST_01140,Complaint,Service delay,In Progress,,2025-04-19 05:00:18.720246,Online Form,True,False
+FB_518831,SRV_001298,CUST_01504,Complaint,Overcharging,Resolved,23.0,2023-08-15 05:00:18.740245,Email,False,False
+FB_263328,SRV_006232,CUST_01604,Complaint,Communication issues,In Progress,,2023-05-15 05:00:18.742244,In Person,True,False
+FB_690114,SRV_007514,CUST_00877,Complaint,Rude staff,In Progress,,2023-07-30 05:00:18.696242,Online Form,False,False
+FB_575248,SRV_004170,CUST_00810,Complaint,Facility cleanliness,Resolved,28.0,2024-10-24 05:00:18.694242,Phone,False,True
+FB_975893,SRV_006583,CUST_01364,Complaint,Service delay,In Progress,,2025-02-10 05:00:18.735244,In Person,True,False
+FB_958816,SRV_004140,CUST_01025,Complaint,Service delay,Resolved,2.0,2023-10-15 05:00:18.700242,In Person,False,False
+FB_633168,SRV_002855,CUST_00486,Complaint,Incomplete service,Unresolved,,2025-12-09 05:00:18.686242,Online Form,False,False
+FB_309626,SRV_006199,CUST_01879,Complaint,Incomplete service,Resolved,6.0,2025-02-23 05:00:18.765246,Email,False,False
+FB_940781,SRV_002048,CUST_00087,Complaint,Facility cleanliness,In Progress,,2024-04-04 05:00:18.657826,Online Form,False,False
+FB_239503,SRV_002791,CUST_01657,Complaint,Communication issues,Resolved,4.0,2023-09-07 05:00:18.759243,Phone,False,True
+FB_379099,SRV_005215,CUST_00483,Complaint,Technical incompetence,Resolved,13.0,2025-09-11 05:00:18.686242,Phone,True,False
+FB_343348,SRV_005101,CUST_01538,Complaint,Facility cleanliness,Resolved,24.0,2024-05-07 05:00:18.740245,Phone,True,True
+FB_446546,SRV_001780,CUST_00226,Complaint,Long wait time,In Progress,,2023-10-02 05:00:18.662248,Online Form,False,False
+FB_645420,SRV_001201,CUST_01600,Complaint,Technical incompetence,Resolved,13.0,2022-11-17 05:00:18.742244,Online Form,True,False
+FB_550593,SRV_002121,CUST_01777,Complaint,Poor service quality,In Progress,,2024-07-16 05:00:18.762244,Online Form,False,False
+FB_541265,SRV_005366,CUST_01696,Complaint,Overcharging,Unresolved,,2025-11-18 05:00:18.760245,Email,True,False
+FB_188862,SRV_003789,CUST_00110,Complaint,Service delay,Unresolved,,2024-04-14 05:00:18.658241,Phone,False,False
+FB_957298,SRV_000680,CUST_00943,Complaint,Rude staff,Unresolved,,2024-01-15 05:00:18.697242,Email,False,False
+FB_751772,SRV_000943,CUST_00451,Complaint,Long wait time,Resolved,15.0,2026-03-30 05:00:18.685242,Phone,False,True
+FB_172434,SRV_001046,CUST_00338,Complaint,Parts not available,Resolved,2.0,2025-02-17 05:00:18.664243,Email,True,True
+FB_494344,SRV_000373,CUST_00321,Complaint,Long wait time,In Progress,,2023-03-04 05:00:18.664243,In Person,False,False
+FB_344166,SRV_003721,CUST_01193,Complaint,Incomplete service,Resolved,18.0,2023-08-31 05:00:18.722244,Phone,False,True
+FB_623666,SRV_004978,CUST_00782,Complaint,Communication issues,Resolved,1.0,2025-07-30 05:00:18.694242,Online Form,False,False
+FB_679132,SRV_002069,CUST_00360,Complaint,Facility cleanliness,Resolved,11.0,2024-05-22 05:00:18.665243,Online Form,True,False
+FB_177710,SRV_006156,CUST_01287,Complaint,Parts not available,Resolved,19.0,2025-03-07 05:00:18.733178,Email,False,False
+FB_109801,SRV_007691,CUST_00990,Complaint,Technical incompetence,Resolved,6.0,2023-02-23 05:00:18.699242,Phone,False,True
+FB_330862,SRV_007988,CUST_01464,Complaint,Technical incompetence,Unresolved,,2024-04-01 05:00:18.739244,Email,True,False
+FB_884142,SRV_002313,CUST_00943,Complaint,Rude staff,In Progress,,2024-09-19 05:00:18.697242,Phone,True,False
+FB_468253,SRV_007744,CUST_00009,Complaint,Poor service quality,Unresolved,,2025-06-10 05:00:18.655244,Email,True,False
+FB_343284,SRV_002307,CUST_00670,Complaint,Poor service quality,Resolved,14.0,2024-04-30 05:00:18.691243,Email,False,False
+FB_145322,SRV_001420,CUST_00856,Complaint,Incomplete service,In Progress,,2023-07-10 05:00:18.695242,Email,False,False
+FB_794240,SRV_003576,CUST_00131,Complaint,Technical incompetence,Unresolved,,2022-09-14 05:00:18.659245,Online Form,True,False
+FB_525932,SRV_002153,CUST_01550,Complaint,Rude staff,Resolved,30.0,2024-02-02 05:00:18.741246,Online Form,False,False
+FB_301546,SRV_007767,CUST_00203,Complaint,Service delay,In Progress,,2026-03-14 05:00:18.661250,Online Form,False,False
+FB_760840,SRV_007963,CUST_01620,Complaint,Facility cleanliness,Resolved,9.0,2025-07-19 05:00:18.742244,Email,True,False
+FB_631025,SRV_003349,CUST_01261,Complaint,Technical incompetence,In Progress,,2024-09-16 05:00:18.730244,Email,False,False
+FB_144925,SRV_001074,CUST_01771,Complaint,Incomplete service,Resolved,10.0,2025-02-16 05:00:18.761245,In Person,False,False
+FB_361112,SRV_002736,CUST_01173,Complaint,Incomplete service,Resolved,13.0,2024-01-10 05:00:18.722244,Online Form,False,True
+FB_606760,SRV_002801,CUST_00821,Complaint,Overcharging,Resolved,27.0,2025-02-27 05:00:18.695242,Phone,True,True
+FB_215192,SRV_007984,CUST_00800,Complaint,Technical incompetence,In Progress,,2023-08-14 05:00:18.694242,Phone,False,False
+FB_578723,SRV_004077,CUST_00133,Complaint,Poor service quality,Resolved,23.0,2023-10-07 05:00:18.659245,Phone,True,True
+FB_133331,SRV_007328,CUST_01097,Complaint,Incomplete service,Resolved,19.0,2026-02-15 05:00:18.701242,Phone,True,True
+FB_745381,SRV_004035,CUST_00859,Complaint,Overcharging,In Progress,,2024-09-15 05:00:18.696242,Online Form,True,False
+FB_822870,SRV_004832,CUST_00836,Complaint,Incomplete service,Resolved,5.0,2024-10-12 05:00:18.695242,Phone,True,True
+FB_385914,SRV_001914,CUST_01907,Complaint,Service delay,Unresolved,,2024-09-11 05:00:18.765246,In Person,False,False
+FB_654568,SRV_006728,CUST_00845,Complaint,Incomplete service,In Progress,,2024-04-10 05:00:18.695242,Phone,True,False
+FB_885701,SRV_003534,CUST_00586,Complaint,Poor service quality,Resolved,13.0,2025-06-25 05:00:18.689246,Email,True,True
+FB_345454,SRV_005173,CUST_01544,Complaint,Service delay,Resolved,5.0,2023-11-16 05:00:18.741246,Email,False,True

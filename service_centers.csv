@@ -1,0 +1,50 @@
+service_center_id,center_name,city,established_year,daily_capacity,total_services_ytd,total_revenue_ytd,avg_customer_satisfaction,avg_service_delay_hours,nps_score,technician_count,service_bays,manager_name,has_customer_lounge,offers_pickup_dropoff,certified_technicians_pct
+SC_MUM_AND,Andheri West,Mumbai,2020,23,130,1083150.0,3.84,0.37,-14.6,8,22,Manager_23,False,False,73.1
+SC_MUM_BAN,Bandra East,Mumbai,2018,54,119,1057796.0,3.85,0.43,-12.6,23,21,Manager_20,True,True,60.7
+SC_MUM_THA,Thane,Mumbai,2011,24,129,1016511.0,3.78,0.51,-23.3,8,13,Manager_81,True,False,76.0
+SC_MUM_POW,Powai,Mumbai,2022,39,131,1090489.0,3.75,0.5,-24.4,8,21,Manager_16,True,False,70.5
+SC_MUM_GOR,Goregaon,Mumbai,2018,82,109,745664.0,3.79,0.32,-18.3,24,26,Manager_90,True,False,82.3
+SC_MUM_MAL,Malad,Mumbai,2018,29,152,1236026.0,3.83,0.44,-16.4,6,22,Manager_16,False,True,71.4
+SC_DEL_CON,Connaught Place,Delhi,2016,94,177,1470322.0,3.77,0.46,-18.1,11,9,Manager_45,False,True,74.2
+SC_DEL_LAJ,Lajpat Nagar,Delhi,2015,68,152,1144272.0,3.87,0.37,-12.5,23,11,Manager_100,False,False,67.5
+SC_DEL_KAR,Karol Bagh,Delhi,2013,74,190,1343416.0,3.82,0.41,-14.7,24,13,Manager_16,False,False,85.1
+SC_DEL_DWA,Dwarka,Delhi,2022,100,117,970946.0,3.78,0.38,-18.8,13,18,Manager_22,False,False,93.7
+SC_DEL_ROH,Rohini,Delhi,2021,86,120,739220.0,3.91,0.43,-9.2,19,12,Manager_73,True,True,68.2
+SC_DEL_JAN,Janakpuri,Delhi,2012,56,134,1079981.0,3.85,0.33,-13.4,19,26,Manager_32,False,False,72.1
+SC_BAN_KOR,Koramangala,Bangalore,2014,26,224,1563019.0,3.86,0.43,-9.8,5,20,Manager_77,True,True,76.6
+SC_BAN_WHI,Whitefield,Bangalore,2016,55,152,1395280.0,3.79,0.44,-21.7,8,15,Manager_45,False,False,81.1
+SC_BAN_JAY,Jayanagar,Bangalore,2021,59,161,1546571.0,3.8,0.46,-18.0,25,16,Manager_53,True,True,89.9
+SC_BAN_ELE,Electronic City,Bangalore,2011,63,136,956800.0,3.87,0.44,-14.0,8,9,Manager_33,True,True,69.8
+SC_BAN_MAR,Marathahalli,Bangalore,2014,46,117,925173.0,3.85,0.45,-12.8,21,12,Manager_98,True,True,70.4
+SC_CHE_T.N,T. Nagar,Chennai,2016,64,157,1171991.0,3.8,0.49,-18.5,10,13,Manager_11,True,True,91.8
+SC_CHE_ANN,Anna Nagar,Chennai,2014,35,123,977832.0,3.82,0.38,-17.1,8,30,Manager_95,True,True,93.1
+SC_CHE_VEL,Velachery,Chennai,2012,94,223,1670535.0,3.78,0.47,-17.0,18,20,Manager_65,False,False,61.7
+SC_CHE_OMR,OMR,Chennai,2011,81,146,1027483.0,3.83,0.45,-17.1,22,17,Manager_18,False,False,71.2
+SC_CHE_TAM,Tambaram,Chennai,2015,23,155,1113176.0,3.9,0.37,-5.8,12,9,Manager_92,True,False,82.3
+SC_HYD_BAN,Banjara Hills,Hyderabad,2022,23,117,772743.0,3.8,0.37,-17.9,25,25,Manager_37,False,False,86.0
+SC_HYD_GAC,Gachibowli,Hyderabad,2015,75,212,1572156.0,3.85,0.43,-17.0,17,25,Manager_89,False,False,91.5
+SC_HYD_SEC,Secunderabad,Hyderabad,2010,75,148,1182790.0,3.76,0.43,-22.3,25,30,Manager_85,False,False,82.4
+SC_HYD_KUK,Kukatpally,Hyderabad,2019,56,155,1198959.0,3.77,0.38,-24.5,10,8,Manager_18,False,True,71.0
+SC_HYD_MAD,Madhapur,Hyderabad,2014,58,204,1640791.0,3.89,0.38,-8.3,5,20,Manager_41,False,True,90.5
+SC_PUN_HIN,Hinjewadi,Pune,2012,25,136,1035017.0,3.82,0.37,-18.4,24,28,Manager_38,True,True,93.9
+SC_PUN_AUN,Aundh,Pune,2010,97,137,1391394.0,3.89,0.53,-10.9,22,23,Manager_74,True,True,67.4
+SC_PUN_KOT,Kothrud,Pune,2022,29,120,1131928.0,3.8,0.58,-17.5,20,29,Manager_41,False,False,93.3
+SC_PUN_WAK,Wakad,Pune,2012,70,175,1313385.0,3.86,0.42,-10.9,20,23,Manager_80,False,True,86.6
+SC_PUN_BAN,Baner,Pune,2014,24,205,1678811.0,3.79,0.43,-21.5,22,26,Manager_81,True,False,67.5
+SC_KOL_SAL,Salt Lake,Kolkata,2017,90,147,1244168.0,3.85,0.49,-16.3,8,17,Manager_19,True,True,76.7
+SC_KOL_PAR,Park Street,Kolkata,2010,44,144,1158142.0,3.78,0.47,-22.9,8,30,Manager_96,True,False,91.2
+SC_KOL_HOW,Howrah,Kolkata,2015,39,191,1379186.0,3.76,0.51,-24.6,13,27,Manager_13,True,False,82.0
+SC_KOL_NEW,New Town,Kolkata,2012,35,177,1430830.0,3.84,0.35,-16.4,6,26,Manager_90,False,True,67.8
+SC_KOL_RAJ,Rajarhat,Kolkata,2011,94,153,1272464.0,3.89,0.49,-10.5,8,11,Manager_57,False,True,87.4
+SC_AHM_SAT,Satellite,Ahmedabad,2011,100,173,1452548.0,3.86,0.42,-13.9,14,25,Manager_89,False,True,85.8
+SC_AHM_VAS,Vastrapur,Ahmedabad,2010,36,205,1800062.0,3.79,0.52,-18.5,12,17,Manager_46,True,False,63.4
+SC_AHM_PRA,Prahlad Nagar,Ahmedabad,2012,78,149,1084888.0,3.91,0.45,-6.0,16,29,Manager_53,True,False,71.0
+SC_AHM_MAN,Maninagar,Ahmedabad,2012,41,217,1786659.0,3.82,0.45,-18.4,5,29,Manager_54,True,False,79.5
+SC_JAI_MAL,Malviya Nagar,Jaipur,2016,51,211,1649948.0,3.8,0.39,-17.1,7,18,Manager_43,True,False,88.0
+SC_JAI_C-S,C-Scheme,Jaipur,2021,98,191,1667692.0,3.74,0.38,-25.1,18,10,Manager_15,False,False,89.8
+SC_JAI_VAI,Vaishali Nagar,Jaipur,2011,67,195,1640073.0,3.82,0.57,-13.8,6,18,Manager_14,True,False,86.6
+SC_JAI_MAN,Mansarovar,Jaipur,2020,78,219,1737154.0,3.81,0.47,-17.4,13,30,Manager_32,True,True,62.8
+SC_LUC_GOM,Gomti Nagar,Lucknow,2018,45,168,1375448.0,3.83,0.33,-16.7,16,24,Manager_70,True,True,90.7
+SC_LUC_HAZ,Hazratganj,Lucknow,2012,39,184,1459130.0,3.85,0.44,-12.0,5,27,Manager_42,True,True,80.9
+SC_LUC_ALI,Aliganj,Lucknow,2010,76,210,1744675.0,3.8,0.4,-20.5,12,18,Manager_53,True,False,89.1
+SC_LUC_IND,Indira Nagar,Lucknow,2011,53,203,1714048.0,3.84,0.44,-15.8,6,16,Manager_44,False,True,80.3
