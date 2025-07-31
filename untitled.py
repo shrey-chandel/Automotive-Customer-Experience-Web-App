@@ -13,9 +13,6 @@ warnings.filterwarnings('ignore')
 # Page configuration
 st.set_page_config(
     page_title="Automotive CX Analytics",
-    page_icon="🚗",
-    layout="wide",
-    initial_sidebar_state="expanded"
 )
 
 # Custom CSS for better styling
